@@ -5,3 +5,6 @@ authors = [
     "Alvaro Polo <apoloval@gmail.com>",
     "Sebastian Ortega <sebastian.ortega.torres@gmail.com>"
 ]
+
+[dependencies]
+piston_window = "*"
