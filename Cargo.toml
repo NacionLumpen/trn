@@ -1,0 +1,7 @@
+[package]
+name = "trn"
+version = "0.1.0"
+authors = [
+    "Alvaro Polo <apoloval@gmail.com>",
+    "Sebastian Ortega <sebastian.ortega.torres@gmail.com>"
+]
